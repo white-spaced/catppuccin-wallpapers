@@ -2,5 +2,5 @@ Everything is licensed under CC BY-NC 4.0 unless stated otherwise (https://creat
 
 catppuccin* - whitespaced  
 vhs* - i4pg#4897  
-waves* - eirk#7057
-blob* - Houl#1350
+waves* - eirk#7057  
+blob* - @Houl@ilyamikcoder.com (fedi)  
